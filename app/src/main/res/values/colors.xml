@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#9C27B0</color>
+    <color name="colorPrimaryDark">#673AB7</color>
+    <color name="colorAccent">#FF5722</color>
+    <color name="colorTextoToolbar">#FFFFFF</color>
+    <color name="colorFondoTV">#FFFFFF</color>
+    <color name="colorFondoCV1">#9B59A6</color>
+    <color name="colorFondoCV2">#4B974E</color>
+</resources>
